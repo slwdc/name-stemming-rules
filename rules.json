@@ -1,0 +1,8 @@
+{
+	"descriptions": {
+		"/a(tne)\b/i": "Replace names like Karunaratne with Karunarathne",
+	},
+	"rules": {
+		"/a(tne)\b/i": "athna",
+	}
+}
